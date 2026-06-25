@@ -8,7 +8,7 @@ export default function Hero() {
         <p className="intro">Third-year Automation &amp; Applied Informatics student, focused on becoming a software developer. I work mostly with Python and Flask. Both projects below are live, and the code is on GitHub.</p>
         <div className="cta-row">
           <a href="#projects" className="btn btn-primary">View projects <span className="arr">↓</span></a>
-          <a href="/cv.pdf" className="btn btn-outline" download>Download CV</a>
+          <a href="/cv.pdf" className="btn btn-outline" download="Florin-Traian-Zadorojneac-CV.pdf">Download CV</a>
           <a href="https://github.com/zdrj1337" className="btn btn-outline" target="_blank" rel="noopener">GitHub <span className="arr">↗</span></a>
         </div>
       </div>
