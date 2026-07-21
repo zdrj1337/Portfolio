@@ -12,7 +12,7 @@ export const projects = [
   {
     id: '02',
     name: 'Fleet Payment Report Generator',
-    role: 'Data pipeline + app',
+    role: 'Data pipeline + web app',
     description:
       "Bolt and Uber export weekly driver data in completely different formats. This app normalizes both into one schema, calculates each driver's pay (platform and firm commission, net, bank transfer), and generates a PDF payment slip and an Excel report per driver — plus a fleet-wide summary. Built around a real ride-hailing fleet's workflow.",
     tags: ['Python', 'Flask', 'pandas', 'openpyxl', 'reportlab'],
