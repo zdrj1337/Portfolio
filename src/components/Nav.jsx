@@ -8,9 +8,9 @@ export default function Nav() {
           <a href="#projects">Projects</a>
           <a href="#skills">Skills</a>
           <a href="#contact">Contact</a>
-          <a href="/cv.pdf" className="nav-cta" download="Florin-Traian-Zadorojneac-CV.pdf">Download CV</a>
+          <a href="/Zadorojneac%20Florin-Traian.pdf" className="nav-cta" download="Florin-Traian-Zadorojneac-CV.pdf">Download CV</a>
         </div>
       </div>
     </nav>
-  )
+  ) 
 }

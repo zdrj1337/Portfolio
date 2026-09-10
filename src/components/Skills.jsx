@@ -1,8 +1,24 @@
 const groups = [
-  { title: 'Languages', items: ['Python', 'JavaScript', 'C++', 'SQL'] },
-  { title: 'Web', items: ['HTML', 'CSS', 'Flask', 'React'] },
-  { title: 'Data & libraries', items: ['pandas', 'openpyxl', 'reportlab', 'SQLite'] },
-  { title: 'Tools', items: ['Git', 'GitHub', 'VS Code'] },
+  {
+    title: 'Languages',
+    items: ['Python', 'JavaScript', 'TypeScript', 'C++'],
+  },
+  {
+    title: 'Web',
+    items: ['HTML', 'CSS', 'React', 'Node.js', 'Flask', 'REST APIs'],
+  },
+  {
+    title: 'Data & libraries',
+    items: ['SQL', 'SQLite', 'pandas', 'openpyxl', 'reportlab'],
+  },
+  {
+    title: 'Tools & deployment',
+    items: ['Git', 'GitHub', 'VS Code', 'Linux', 'Vercel', 'PythonAnywhere', 'Claude Code'],
+  },
+  {
+    title: 'Engineering & automation',
+    items: ['MATLAB', 'Simulink', 'PLC Fundamentals', 'Arduino', 'Control Systems'],
+  },
 ]
 
 export default function Skills() {
