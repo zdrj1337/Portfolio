@@ -51,7 +51,7 @@ section{padding:78px 0;}
 .section-head h2{font-size:clamp(26px,4vw,36px);color:var(--ink);margin-top:16px;letter-spacing:-.01em;}
 
 /* about */
-.about-grid{display:grid;grid-template-columns:1.5fr 1fr;gap:48px;align-items:start;}
+.about-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:56px;align-items:start;}
 .about-grid p{font-size:16.5px;color:var(--ink-soft);margin:0 0 16px;}
 .about-grid p:last-child{margin-bottom:0;}
 .about-side{border-left:2px solid var(--accent);padding-left:22px;}
