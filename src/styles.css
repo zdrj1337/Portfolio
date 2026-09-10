@@ -53,8 +53,8 @@ section{padding:78px 0;}
 /* about */
 .about-grid{
   display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:64px;
+  grid-template-columns:1.25fr 1fr;
+  gap:72px;
   align-items:center;
 }
 .about-grid p{font-size:16.5px;color:var(--ink-soft);margin:0 0 16px;}
